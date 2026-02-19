@@ -1,4 +1,4 @@
-📊 Análise e Sugestão
+**📊 Análise e Sugestão**
 Com base no seu perfil, identifiquei 3 carreiras muito promissoras:
 
 Nome: Bruno Vinicius Reis de Sena
@@ -7,10 +7,10 @@ Objetivo: conseguir o primeiro emprego
 Disponibilidade: 10 horas por semana
 
 ════════════════════════════════════════════════════════════
-🥇 1º LUGAR: Cientista de Dados – 18/20
+**🥇 1º LUGAR: Cientista de Dados – 18/20**
 ════════════════════════════════════════════════════════════
 
-💡 Por que combina com você:
+**💡 Por que combina com você:**
 
 Você gosta de entender sistemas e prefere lidar com dados.
 
@@ -18,7 +18,7 @@ Seu interesse em inteligência artificial se conecta diretamente com análise de
 
 Dedicar 15h semanais é suficiente para construir uma base sólida e crescer na função atual.
 
-⚖️ O que esperar:  
+**⚖️ O que esperar:  **
 Vantagens:
 
 Alta demanda em praticamente todos os setores.
@@ -31,20 +31,20 @@ Exige aprendizado consistente em estatística e programação.
 
 Curva de aprendizado inicial pode ser intensa.
 
-📈 Mercado:  
+**📈 Mercado:**
 A área de dados está em expansão global, mas a demanda varia por região e nível de experiência.
 
 ════════════════════════════════════════════════════════════
-🥈 2º LUGAR: Engenheiro de Machine Learning – 17/20
+**🥈 2º LUGAR: Engenheiro de Machine Learning – 17/20**
 ════════════════════════════════════════════════════════════
 
-💡 Por que combina com você:
+**💡 Por que combina com você:**
 
 Seu interesse direto em inteligência artificial aponta para essa carreira.
 
 Você terá contato com modelos, algoritmos e sistemas inteligentes.
 
-⚖️ O que esperar:  
+**⚖️ O que esperar:**  
 Vantagens:
 
 Trabalhar na fronteira da inovação tecnológica.
@@ -61,16 +61,16 @@ Ramp-up mais longo até se tornar júnior.
 Muito aquecido, especialmente em empresas de tecnologia e startups, mas competitivo.
 
 ════════════════════════════════════════════════════════════
-🥉 3º LUGAR: Analista de Business Intelligence (BI) – 15/20
+**🥉 3º LUGAR: Analista de Business Intelligence (BI) – 15/20**
 ════════════════════════════════════════════════════════════
 
-💡 Por que combina com você:
+**💡 Por que combina com você:**
 
 Foco em dados e em entender sistemas de informação.
 
 Boa porta de entrada para quem está começando do zero e quer crescer na função atual.
 
-⚖️ O que esperar:  
+**⚖️ O que esperar:**  
 Vantagens:
 
 Ramp-up mais rápido que carreiras mais técnicas.
