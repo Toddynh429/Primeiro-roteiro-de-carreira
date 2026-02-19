@@ -37,7 +37,9 @@ Curva de aprendizado inicial pode ser intensa.
 A área de dados está em expansão global, mas a demanda varia por região e nível de experiência.
 
 ════════════════════════════════════════════════════════════
+
 **🥈 2º LUGAR: Engenheiro de Machine Learning – 17/20**
+
 ════════════════════════════════════════════════════════════
 
 **💡 Por que combina com você:**
@@ -63,7 +65,9 @@ Ramp-up mais longo até se tornar júnior.
 Muito aquecido, especialmente em empresas de tecnologia e startups, mas competitivo.
 
 ════════════════════════════════════════════════════════════
+
 **🥉 3º LUGAR: Analista de Business Intelligence (BI) – 15/20**
+
 ════════════════════════════════════════════════════════════
 
 **💡 Por que combina com você:**
@@ -85,13 +89,13 @@ Menor foco em IA avançada.
 
 Pode exigir habilidades de comunicação com áreas de negócio.
 
-📈 Mercado:  
+**📈 Mercado:**  
 Muito presente em empresas tradicionais e em expansão, com demanda variando conforme setor e região.
 
 
 
-🧠 MAPA DE SKILLS
-CORE SKILLS (essenciais):
+**🧠 MAPA DE SKILLS
+CORE SKILLS (essenciais):**
 
 Estatística e probabilidade
 
@@ -113,7 +117,7 @@ SQL
 
 Scikit-learn
 
-📅 ROADMAP DE 90 DIAS
+**📅 ROADMAP DE 90 DIAS**
 ADAPTADO PARA: 10 horas/semana
 
 MÊS 1 - FUNDAMENTOS
@@ -155,7 +159,7 @@ Projeto de portfólio completo.
 
 Preparação para entrevistas técnicas.
 
-🚀 PROJETO DE PORTFÓLIO
+**🚀 PROJETO DE PORTFÓLIO**
 PROJETO: Previsão de Vendas com Machine Learning
 
 O QUE FAZER:  
