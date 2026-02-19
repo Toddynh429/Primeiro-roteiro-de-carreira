@@ -7,7 +7,9 @@ Objetivo: conseguir o primeiro emprego
 Disponibilidade: 10 horas por semana
 
 ════════════════════════════════════════════════════════════
+
 **🥇 1º LUGAR: Cientista de Dados – 18/20**
+
 ════════════════════════════════════════════════════════════
 
 **💡 Por que combina com você:**
